@@ -6,10 +6,6 @@
 
 <p>I am a high school student at Escola Técnica Fernando Prestes, studying Systems Development (AMS) at the Fatec Sorocaba campus.<br/></p>
 
-<br><br>
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ViniciusRibeiroLopes&bg_color=f8efd4&color=113F67&line=34699A&point=113F67&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 ---
 
 ### 👨‍💻 About Me:
